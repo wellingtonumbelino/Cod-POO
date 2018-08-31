@@ -5,9 +5,9 @@
 using namespace std;
 
 struct Pass{
-    nome : string;
-    idade : int;
-    tipo : string;
+    string nome;
+    int idade;
+    string tipo;
     bool existe;
 
     Pass(string nome = "fulano", int idade = 0){
@@ -32,7 +32,7 @@ struct Pass{
 struct Topic{
     int qtd;
     int qtdIdoso;
-     passageiros : vector<Pass*>;
+     vector<Pass*> passageiros;
 
     Topic(int qtd = 0, int qtdIdoso = 0){
         this-> qtd = qtd;
