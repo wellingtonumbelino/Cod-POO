@@ -12,7 +12,7 @@
 
 -	O que tem dificuldade ainda?
 
-    * Tenho dificuldade em identificar de imediato o que o código quer e qual a responsabilidade as classes devem assumir.
+    * Tenho dificuldade em identificar de imediato o que o código quer e qual a responsabilidade as classes devem assumir.E a função update não está funcionando pois não sei como quebrar a string e não conseguir entender com os exemplos que tinham na internet.
 
 -	Quanto tempo levou pra fazer a atividade?
 
